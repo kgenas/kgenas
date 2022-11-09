@@ -2,14 +2,18 @@
 
 ```javascript
 const kgenas = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML ],
-  tools: [React, Redux, Node, Jest ],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  pronouns: "He" | "Him",
+  technologies: {
+    frontEnd: {
+      js: ['React'],
+      css: ['boostrap']
+    },
+    backEnd: ['node','PHP','Asp.net'],
+    databases: ['MongoDB','MySql' ,'SQLServer']
+  }
 }
 
 ```
-
 [![kgenas GitHub stats](https://github-readme-stats.vercel.app/api?username=kgenas)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
