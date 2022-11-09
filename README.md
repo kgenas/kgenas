@@ -1,4 +1,4 @@
-### Hi, I'm Kgenas 👋
+### Hey, nice to see you 👋
 
 ```javascript
 const kgenas = {
@@ -7,6 +7,8 @@ const kgenas = {
   tools: [React, Redux, Node, Jest ],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+
+[![Kgenas GitHub stats](https://github-readme-stats.vercel.app/api?username=kgenas](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 <!--
