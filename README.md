@@ -1,5 +1,5 @@
 ## Hey, nice to see you 👋
-> I'm a web developer from the Guatemalan Republic.I like to learn and develop programs
+> I'm a web developer from the Guatemalan Republic and i like create software and learn new things
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="300" />
 
