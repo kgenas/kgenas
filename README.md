@@ -1,10 +1,7 @@
 ## Hey, nice to see you 👋
 > I'm a web developer from the Guatemalan Republic.I like to learn and develop programs
 
-<div align="center">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</div>
-<br/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
 ### What I do :computer:
 ```javascript
